@@ -1,4 +1,3 @@
-*Music_Player*
 # Music World Web Application
 
 ## Description
